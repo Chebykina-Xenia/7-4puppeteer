@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+package.json
+
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
